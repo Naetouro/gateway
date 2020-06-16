@@ -9,7 +9,7 @@ public final class Global {
     //public static final String URI_POKEMONS_USERS_MICROSERVICE = "http://localhost:8082/pokemons_users_microservice";
     public static final String URI_POKEMONS_USERS_MICROSERVICE = "https://pokemonsusersmicroservice.herokuapp.com";
     //public static final String URI_USER_MICROSERVICE = "http://localhost:8080/users_microservice";
-    public static final String URI_USER_MICROSERVICE = "https://userpokedexicroservice.herokuapp.com";
+    public static final String URI_USER_MICROSERVICE = "https://userpokedexmicroservice.herokuapp.com";
     public static final String URI_POKEMON = "/pokemon";
     public static final String URI_FILTER = "/filter";
     public static final String URI_NAME = "/name";
